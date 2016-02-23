@@ -33,7 +33,7 @@ import java.util.Random;
  * $ ./gradlew desktop:run
  */
 
-public class Starfield extends ApplicationAdapter {
+public class    Starfield extends ApplicationAdapter {
 
     private static final float STAR_DENSITY = 0.1f;
     ShapeRenderer shapeRenderer;
